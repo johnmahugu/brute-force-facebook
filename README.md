@@ -8,9 +8,9 @@ About
 
 Installation
 ------------
-`$ git clone https://github.com/jessie/brute-force-facebook/ `
-`$ cd brute-force-facebook`
-`$ perl bruteforceFB.pl`
+- `$ git clone https://github.com/jessie/brute-force-facebook/ `
+- `$ cd brute-force-facebook`
+- `$ perl bruteforceFB.pl`
 
 How to use
 ----------
@@ -26,4 +26,4 @@ Required Programs
 
 Contact
 -------
-- http:\\jeromjem.netne.net
+- [jeromej3m.netne.net](https://jeromej3m.netne.net)
