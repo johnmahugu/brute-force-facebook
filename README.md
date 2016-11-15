@@ -14,7 +14,6 @@ Installation
 
 How to use
 ----------
-https://github.com/j3ssie/brute-force-facebook/tree/master/assets
 ![brute-force-facebook screenhhost](https://github.com/j3ssie/brute-force-facebook/blob/master/assets/1.png)
 
 Tested
@@ -27,4 +26,4 @@ Required Programs
 
 Contact
 -------
-http:\\jeromjem.netne.net
+- http:\\jeromjem.netne.net
