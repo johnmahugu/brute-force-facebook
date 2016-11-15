@@ -3,8 +3,8 @@ Brute Force Facebook
 
 About
 -----
-This tool will try each word in your wordlist.
-If you don't have a wordlist, you can use [jjtool](https://github.com/j3ssie/jjtool-master) to create one.
+- This tool will try each word in your wordlist.
+- If you don't have a wordlist, you can use [jjtool](https://github.com/j3ssie/jjtool-master) to create one.
 
 Installation
 ------------
@@ -14,11 +14,12 @@ Installation
 
 How to use
 ----------
-![brute-force-facebook screenhhost](https://raw.github.com/jessie/brute-force-facebook/assets/1.png)
+https://github.com/j3ssie/brute-force-facebook/tree/master/assets
+![brute-force-facebook screenhhost](https://github.com/j3ssie/brute-force-facebook/blob/master/assets/1.png)
 
 Tested
 ------
-![brute-force-facebook screenhhost](https://raw.github.com/jessie/brute-force-facebook/assets/2.png)
+![brute-force-facebook screenhhost](https://github.com/j3ssie/brute-force-facebook/blob/master/assets/2.png)
 
 Required Programs
 -----------------
