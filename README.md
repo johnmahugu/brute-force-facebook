@@ -8,7 +8,7 @@ About
 
 Installation
 ------------
-- `$ git clone https://github.com/jessie/brute-force-facebook/ `
+- `$ git clone https://github.com/j3ssie/brute-force-facebook.git `
 - `$ cd brute-force-facebook`
 - `$ perl bruteforceFB.pl`
 
