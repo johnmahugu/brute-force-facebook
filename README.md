@@ -3,7 +3,7 @@ Brute Force Password Facebook
 
 About
 -----
-- This tool will try each word in your wordlist.
+- This tool will check each word in your wordlist.
 - If you don't have a wordlist, you can use [jjtool](https://github.com/j3ssie/jjtool-master) to create one.
 
 Installation
